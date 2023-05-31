@@ -1,4 +1,7 @@
-# less-plugin-remove-antd-global-styles
+## less-plugin-remove-antd-global-styles-fix
+fork from [less-plugin-remove-antd-global-styles](https://github.com/csr632/less-plugin-remove-antd-global-styles/tree/main)
+
+## less-plugin-remove-antd-global-styles
 
 This is a [less plugin](https://lesscss.org/tools/#plugins) that removes [ant-design global styles](https://github.com/ant-design/ant-design/blob/master/components/style/core/global.less).
 
