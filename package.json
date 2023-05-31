@@ -1,6 +1,6 @@
 {
-  "name": "less-plugin-remove-antd-global-styles",
-  "version": "1.0.2",
+  "name": "less-plugin-remove-antd-global-styles-fix",
+  "version": "1.0.3",
   "description": "This is a less plugin that removes ant-design global styles.",
   "main": "lib/index.js",
   "module": "es/index.js",
@@ -13,7 +13,7 @@
     "antd",
     "global styles"
   ],
-  "author": "csr632 <632882184@qq.com>",
+  "author": "csr632 && antongz",
   "license": "ISC",
   "devDependencies": {
     "@types/less": "^3.0.3",
